@@ -93,7 +93,7 @@ build/
 .settings
 bin
 build
-target
+target/*
 dependency-reduced-pom.xml
 *.sublime-*
 /scratch
